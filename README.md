@@ -31,3 +31,8 @@ src/
 │   └── games.js           # Fuente de datos inicial en JavaScript
 ├── App.jsx                # Componente principal contenedor del estado global
 └── index.jsx              # Punto de entrada y montaje del DOM virtual
+
+- Comando para clonar el repositorio de Github
+- git clone https://github.com/Luci2k26/FrontEndETF.git
+- Posteriormente es necesario instalar npm, ejecutar en la terminal el comando : npm run dev
+- Así se integrarán los módulos de node, para ejecutar el proyecto con vite.
